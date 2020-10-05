@@ -1,5 +1,6 @@
 #calculator using python GUI
 #calculator app
+#here are the steps below
 #step-1
 create the test folder
 #step-2
