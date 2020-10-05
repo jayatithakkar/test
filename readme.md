@@ -15,7 +15,7 @@ from PyQt5.QtWidgets import QLineEdit
 from PyQt5.QtWidgets import QPushButton
 from PyQt5.QtWidgets import QVBoxLayout
 ```
-#command
+#Command
 git add filename
 git commit -m "created:filename"
 git push origin master
