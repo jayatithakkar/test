@@ -3,7 +3,7 @@
 #Here are the steps below
 #step-1
 create the test folder
-#step-2
+#Step-2
 in the test folder create the different file like main.py,view.py,controller.py,model.py and test.py
 ```import files
 from PyQt5.QtCore import Qt
