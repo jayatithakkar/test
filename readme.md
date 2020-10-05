@@ -1,4 +1,4 @@
-#calculator using python GUI
+#Calculator using python GUI
 #Calculator app
 #Here are the steps below
 #step-1
